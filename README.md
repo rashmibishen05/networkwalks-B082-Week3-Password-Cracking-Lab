@@ -16,7 +16,7 @@ Ethical Use: This practical was performed only on an authorized/training PDF fil
 - Perform a password-cracking attack using JTR/Johnny.
 - Verify the recovered password by opening the authorized PDF.
 - Understand the importance of strong passwords.
-- 
+
 ## 🛠️ Tools & Technologies
 ## Tool	                               Purpose
 - John the Ripper (JTR)              	Password-cracking and password-security testing
