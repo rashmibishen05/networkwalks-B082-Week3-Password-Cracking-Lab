@@ -156,8 +156,10 @@ The `john.exe` file was selected from the JTR `run` directory.
 
 ![johnny](Screenshots/johnny.png)
 
-![setting](Screenshots/johnny_setting.png)
+---
+![setting](Screenshots/johnny_setting.png) 
 
+--- 
 ![exe](Screenshots/johnny_exe.png)
 
 ---
@@ -216,7 +218,9 @@ The **Open password file** option was selected.
 The previously created `hash1.txt` file was selected.
 
 ### Evidence
+![johnny](Screenshots/johnnyPass.png)
 
+---
 ![locked](Screenshots/locked1.png)
 
 ---
@@ -431,7 +435,7 @@ The PDF opened successfully.
 
 | Parameter          | Result             |
 | ------------------ | ------------------ |
-| File               | My Locked PDF1.pdf |
+| File               | My Locked PDF2.pdf |
 | Hash Type          | PDF Password Hash  |
 | Hash Prefix        | `$pdf$`            |
 | Hash Extraction    | Successful         |
