@@ -394,6 +394,9 @@ The cracking process was started.
 The tool attempted different password candidates to identify a matching password.
 
 ### Evidence
+![pasteHash](Screenshots/hashCracker4.png)
+
+---
 
 ![passwordCracked](Screenshots/passwordCracker2.png)
 
