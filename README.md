@@ -138,7 +138,7 @@ https://www.openwall.com/john/
 
 ### Evidence
 
-![john](Screenshots/SS1)
+![john](Screenshots/SS1.png)
 
 ---
 
