@@ -45,7 +45,7 @@ The JTR executable required for the practical is located inside the run director
 https://www.openwall.com/john/
 
 ## Evidence
-![john](Screenshots/ss1.png)
+![john](Screenshots/SS1.png)
 
 
 
