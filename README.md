@@ -35,7 +35,7 @@ Hashing vs Encryption
 - In this practical, the password-protected PDF was processed to obtain a hash representation that could be supplied to John the Ripper for password testing.
 
 ## 🧪 Practical Procedure
-- Step 1 – Install John the Ripper
+### Step 1 – Install John the Ripper
 
 John the Ripper was downloaded from the official Openwall project website and extracted/installed on the Windows system.
 
@@ -45,6 +45,7 @@ The JTR executable required for the practical is located inside the run director
 https://www.openwall.com/john/
 
 ## Evidence
+![john](Screenshots/ss1.png)
 
 
 
