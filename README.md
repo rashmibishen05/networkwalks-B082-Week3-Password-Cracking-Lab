@@ -217,7 +217,7 @@ The previously created `hash1.txt` file was selected.
 
 ### Evidence
 
-![locked](Screenshots/locked.png)
+![locked](Screenshots/locked1.png)
 
 ---
 
