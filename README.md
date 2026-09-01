@@ -320,11 +320,14 @@ The objective of this practical was to:
 
 ### Step 1 – Download the Locked PDF
 
-The file `My Locked PDF1.pdf` was downloaded from the Networkwalks practical lab page.
+The file `My Locked PDF2.pdf` was downloaded from the Networkwalks practical lab page.
 
 ### Evidence
 ![Download](Screenshots/pdfDownload.png)
 
+---
+
+![locked2](Screenshots/locked2.png)
 
 ---
 
