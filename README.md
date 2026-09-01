@@ -218,9 +218,6 @@ The **Open password file** option was selected.
 The previously created `hash1.txt` file was selected.
 
 ### Evidence
-![johnny](Screenshots/johnnyPass.png)
-
----
 ![locked](Screenshots/locked1.png)
 
 ---
